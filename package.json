@@ -1,8 +1,8 @@
 {
-  "name": "noiseburgerlab",
+  "name": "gatsby-tutorial",
   "version": "1.0.0",
   "private": true,
-  "description": "noiseburgerlab",
+  "description": "gatsby-tutorial",
   "author": "Ray Hunter",
   "keywords": [
     "gatsby"
